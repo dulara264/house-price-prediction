@@ -83,6 +83,7 @@ venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
 python src/train.py
+```
 
 ## 🟢 STEP 8 — Technologies section
 
@@ -99,3 +100,10 @@ Add this:
 - Scikit-learn
 - Jupyter Notebook
 - Git & GitHub
+
+---
+
+## 👤 Author
+
+**Dulara Madusanka**  
+ICT Undergraduate | Machine Learning Enthusiast
