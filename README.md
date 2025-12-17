@@ -27,25 +27,6 @@ The project follows a **real-world machine learning workflow**:
 
 ---
 
-## 📁 Project Structure
-
-├── data/
-│ ├── train.csv
-│ └── test.csv
-├── src/
-│ ├── preprocess.py
-│ └── train.py
-├── models/
-│ └── house_price_model.pkl
-├── notebooks/
-│ └── EDA.ipynb
-├── plots/
-│ └── price_distribution.png
-├── requirements.txt
-└── README.md
-
----
-
 ## 🔧 Data Preprocessing
 
 Data preprocessing is implemented using scikit-learn pipelines.
