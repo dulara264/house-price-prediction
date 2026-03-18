@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction (Machine Learning Project)
+#  House Price Prediction (Machine Learning Project)
 
 This project predicts house prices using machine learning regression techniques.
 It is an end-to-end ML project covering data analysis, preprocessing, model training,
@@ -6,7 +6,7 @@ evaluation, and model persistence.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to build a reliable regression model that can predict
 house prices based on various features such as location, size, and amenities.
@@ -19,7 +19,7 @@ The project follows a **real-world machine learning workflow**:
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 - **Model:** Random Forest Regressor
 - **Evaluation Metric:** RMSE (Root Mean Squared Error)
@@ -27,7 +27,7 @@ The project follows a **real-world machine learning workflow**:
 
 ---
 
-## 🔧 Data Preprocessing
+##  Data Preprocessing
 
 Data preprocessing is implemented using scikit-learn pipelines.
 
@@ -43,7 +43,7 @@ consistent processing.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Exploratory data analysis was performed to understand the dataset structure,
 missing values, and the distribution of house prices.
@@ -54,7 +54,7 @@ Example visualization:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Create and activate a virtual environment
 ```bash
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 python src/train.py
 ```
 
-## 🟢 STEP 8 — Technologies section
+##  STEP 8 — Technologies section
 
 Add this:
 
